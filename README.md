@@ -128,12 +128,10 @@ The project revealed several key insights into the Dhaka housing market:
 To reproduce the analysis and visualizations:
 
 1.  Ensure you have followed the installation steps.
+
 2.  Open the Jupyter Notebook:
-
+([Unveiling_Dhaka_Housing_Insights_through_AI_Powered_Data_Visualization.ipynb](Unveiling_Dhaka_Housing_Insights_through_AI_Powered_Data_Visualization.ipynb))
    
-   jupyter notebook notebooks/Unveiling_Dhaka_Housing_Insights_through_AI_Powered_Data_Visualization.ipynb
-   
-
 3.  Run the cells in the notebook sequentially.
 
 

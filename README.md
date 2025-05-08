@@ -135,18 +135,11 @@ To reproduce the analysis and visualizations:
    
 
 3.  Run the cells in the notebook sequentially.
-
-## Contributions
-
-Contributions, issues, and feature requests are welcome!  Feel free to check the [issues page](https://github.com/zubyr09/Unveiling-Dhaka-Housing-Insights-through-AI-Visualization/issues).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+4.  
 
 ## Author
 
-zubyr09
+zubyr09 - **Afridi Jubair**
 
 ## Acknowledgements
 

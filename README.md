@@ -12,8 +12,6 @@ This project explores the dynamics of the Dhaka housing market using a blend of 
 
 ## Repository Structure
 
-Unveiling-Dhaka-Housing-Insights-through-AI-Visualization/ ├── data/ │ └── synthetic_dhaka_housing_data.csv # Synthetic dataset (if saved) ├── notebooks/ │ └── Unveiling_Dhaka_Housing_Insights_through_AI_Powered_Data_Visualization.ipynb # Jupyter Notebook with the analysis ├── README.md └── ... (any other project files)
-* *[data/](data/)*: This directory contains the dataset used for the analysis. In this case, it would contain the synthetic dataset.
 * *[notebooks/](notebooks/)*: This directory contains the Jupyter Notebook ([Unveiling_Dhaka_Housing_Insights_through_AI_Powered_Data_Visualization.ipynb](Unveiling_Dhaka_Housing_Insights_through_AI_Powered_Data_Visualization.ipynb)) that includes the code and analysis.
 * *README.md*: This file provides an overview of the project.
 
